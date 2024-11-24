@@ -1,0 +1,22 @@
+# Data
+adult/
+
+# Virtual environment
+venv/
+
+# Editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# .env
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# exclude jupyter checkpoints
+.ipynb_checkpoints/
