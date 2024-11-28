@@ -3,6 +3,7 @@ adult/
 
 # Virtual environment
 venv/
+business
 
 # Editor settings
 .vscode/
